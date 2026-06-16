@@ -11,13 +11,14 @@ Currently exploring:
 • Deep Learning
 
 ##Tech Stack
-Python
-Django
-Next.js
-React
-TypeScript
-PostgreSQL
-Docker
+
+Python,
+Django,
+Next.js,
+React,
+TypeScript,
+PostgreSQL,
+Docker,
 Git
 
 Email:
