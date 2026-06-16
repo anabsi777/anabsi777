@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**anabsi777/anabsi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+Django • Next.js • TypeScript
 
-Here are some ideas to get you started:
+3+ years experience in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+• Artificial Intelligence
+• Computer Vision
+• Deep Learning
+
+##Tech Stack
+Python
+Django
+Next.js
+React
+TypeScript
+PostgreSQL
+Docker
+Git
+
+Email:
+anahita777abbasi@gmail.com
