@@ -2,7 +2,7 @@
 
 
 Full Stack Developer
-Django • Next.js • TypeScript
+python , javascript
 
 3+ years experience in web development.
 
