@@ -13,14 +13,7 @@ Currently exploring:
 
 ## Tech Stack
 
-Python,
-Django,
-Next.js,
-React,
-TypeScript,
-PostgreSQL,
-Docker,
-Git
+![My Skills](https://skillicons.dev/icons?i=python,django,nextjs,react,ts,postgres,git,github)
 
 Email:
 anahita777abbasi@gmail.com
