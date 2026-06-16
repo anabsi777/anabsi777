@@ -6,7 +6,7 @@
 
 💻 Full Stack Developer
 
-🚀 Django & Next.js Developer
+🚀 python & jsjavascript Developer
 
 🧠 Learning AI, Computer Vision & Deep Learning
 
