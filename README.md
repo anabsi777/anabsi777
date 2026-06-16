@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=python,django,nextjs,react,ts,postgres,git,github,html5,bootstrap,javascript,vscode,flask)
+![My Skills](https://skillicons.dev/icons?i=python,django,nextjs,react,ts,postgres,git,github,html,css,sql,ducker,bootstrap,javascript,vscode,flask)
 
 
 ## Contact
