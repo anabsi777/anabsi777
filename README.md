@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Anahita 👋
+
 
 Full Stack Developer
 Django • Next.js • TypeScript
@@ -10,7 +11,7 @@ Currently exploring:
 • Computer Vision
 • Deep Learning
 
-##Tech Stack
+## Tech Stack
 
 Python,
 Django,
