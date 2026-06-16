@@ -1,19 +1,22 @@
-## Hi, I'm Anahita 👋
+# Hi 👋 I'm Anahita Abbasi
 
+💻 Full Stack Developer
 
-Full Stack Developer
-python , javascript
+🚀 Django & Next.js Developer
 
-3+ years experience in web development.
+🧠 Learning AI, Computer Vision & Deep Learning
 
-Currently exploring:
-• Artificial Intelligence
-• Computer Vision
-• Deep Learning
+📍 Tabriz, Iran
 
 ## Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,django,nextjs,react,ts,postgres,git,github)
 
-Email:
-anahita777abbasi@gmail.com
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anabsi777&show_icons=true&theme=tokyonight)
+
+## Contact
+
+📧 anahita777abbasi@gmail.com
+
