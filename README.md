@@ -6,9 +6,9 @@
 
 💻 Full Stack Developer
 
-🚀 Building scalable digital products.
+🚀 Turning ideas into digital products
 
-🧠 AI • Computer Vision • Django • Next.js
+🧠 AI • Computer Vision • Web Development
 
 📍 Tabriz, Iran
 
