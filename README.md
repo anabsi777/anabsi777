@@ -2,15 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Anahita+Abbasi;Full+Stack+Developer" />
 </p>
 
-# Hi world I'm Anahita Abbasi
+# Hi world , I'm Anahita Abbasi
 
 💻 Full Stack Developer
 
-🚀 python & jsjavascript Developer
+🚀 Building scalable digital products.
 
-🧠 Learning AI, Computer Vision & Deep Learning
+🧠 AI • Computer Vision • Django • Next.js
 
 📍 Tabriz, Iran
+
+🌐 anahitadev.ir
 
 ## Tech Stack
 
